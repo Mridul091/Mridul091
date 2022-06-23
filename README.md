@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi Mridul here 👋
 🔭 I’m currently working on Backend Development<br>👯 m looking to collaborate on good open source projects<br>🌱 I’m currently learning React and Data Structure and Algorithm<br>❤️ Passionate for learning and exploring new technologies <br>💬 Ask me about anything. I'm happy to help<br>
 
 

@@ -1,7 +1,6 @@
 # Hi, I'm Mridul Bagoria
 
-Backend engineer building APIs, real-time systems, and LLM-powered developer tools in **Python** and **Node.js**.
-B.Tech in Mathematics & Computing, Delhi Technological University ('23).
+Backend Engineer · Python, FastAPI, Node.js · Building LLM-powered dev tools · DTU '23
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-bagoria-2169791a1/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/BagoriaMridul)
